@@ -1,0 +1,15 @@
+Name,Description,Type
+Car Air filtration FMEA,,FmeaRootNode
+Car Air filtration System,,SystemElement
+Pre cleaner Body manufacturing process,,SystemElement
+Body edge scrubbing process,,SystemElement
+Charge Air connector pipe operation,,SystemElement
+Steel Straight pipe,,SystemElement
+Maintain airflow through HVAC system,,FunctionElement
+Maintain internal profile,,FunctionElement
+Prevent movement or misalignment,,FunctionElement
+Inspect-Dimension_10,,Characteristics
+Inspect-Dimension_11_10_7,,Characteristics
+Inspect-Hole-Diameter_12,,Characteristics
+Inspect-Temperature_13,,Characteristics
+Pre cleaner Body Clamp,,SystemElement

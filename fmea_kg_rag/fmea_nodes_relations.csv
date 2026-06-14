@@ -1,0 +1,15 @@
+Primary Node,Relation Type,Secondary Node
+Car Air filtration FMEA,Child_System_Element,Car Air filtration System
+Car Air filtration System,Child_System_Element,Pre cleaner Body manufacturing process
+Car Air filtration System,Child_System_Element,Steel Straight pipe
+Car Air filtration System,Child_Function_Element,Maintain airflow through HVAC system
+Pre cleaner Body manufacturing process,Child_System_Element,Body edge scrubbing process
+Body edge scrubbing process,Child_System_Element,Charge Air connector pipe operation
+Body edge scrubbing process,Child_System_Element,Pre cleaner Body Clamp
+Maintain airflow through HVAC system,Associated_Characteristics,Inspect-Dimension_10
+Maintain airflow through HVAC system,Associated_Characteristics,Inspect-Dimension_11_10_7
+Maintain internal profile,Associated_Characteristics,Inspect-Temperature_13
+Prevent movement or misalignment,Associated_Characteristics,Inspect-Hole-Diameter_12
+Prevent movement or misalignment,Associated_Characteristics,Inspect-Dimension_11_10_7
+Charge Air connector pipe operation,Child_Function_Element,Maintain internal profile
+Pre cleaner Body Clamp,Child_Function_Element,Prevent movement or misalignment
